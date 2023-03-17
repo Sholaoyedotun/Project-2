@@ -242,7 +242,7 @@ http://<Public_domain_or_IP>/todo_list.php
 ```
 You'll see
 
-![Table](./images/mysql_webtable.png)
+![Table](./Images/mysql_webtable.png)
 
 Entries successfully updated to the webpage
 That means your PHP environment is ready to connect and interact with your MySQL server.
